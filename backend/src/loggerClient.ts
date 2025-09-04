@@ -5,12 +5,12 @@ import { Log } from '../../logging-middleware/src/index';
 const AUTH_CONFIG = {
   authUrl: 'http://20.244.56.144/evaluation-service/auth',
   authBody: {
-    email: 'student@affordmed.com',
-    name: 'Student Name',
-    rollNo: 'YOUR_ROLL_NO',
-    accessCode: 'ACCESS_CODE',
-    clientID: 'CLIENT_ID', 
-    clientSecret: 'CLIENT_SECRET'
+    "email": "22l31a5478@gmail.com",
+    "name": "polamreddy chiranjeevi reddy",
+    "rollNo": "22l31a5478",
+    "accessCode": "YzuJeU",
+    "clientID": "dfdbb650-ab55-43d6-a7a0-f54f446c1c5d",
+    "clientSecret": "ZPFYtetxJqQTmSPk"
   }
 };
 
